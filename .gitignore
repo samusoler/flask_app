@@ -1,2 +1,5 @@
 #Virtual Enviroment
 venv
+
+#Visual Studio Code
+.vscode
